@@ -1,5 +1,5 @@
 # PRUEBABACKEND
-> Emerson Leonardo Rivas Mejia
+> Moisés Henoch Rivas Merlos
 ## Instalación
 
 Este proyecto utiliza .NET Core 6, asegurese de tenerlo instalado para poder usar el proyecto.
